@@ -22,5 +22,6 @@ $ python rram_model_generator.py --row 256 --col 512 --mode cols --gen_col 6
 ## Citation
 
 If you use this code in your work, please cite the following paper.
-
+```
 K.-W. Hou, H.-H. Cheng,  C. Tung, C.-W. Wu and J.-M. Lu, "Fault Modeling and Testing of Memristor-Based Spiking Neural Networks", in Proc. IEEE Int. Test Conf. (ITC), Anaheim, Sept. 2022.
+```
