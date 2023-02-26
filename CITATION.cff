@@ -12,4 +12,5 @@ authors:
     family-names: Hou
     email: kwhou_larc@gapp.nthu.edu.tw
     affiliation: National Tsing Hua University
+repository-code: 'https://github.com/kwhou/rram_model_generator'
 license: MIT
