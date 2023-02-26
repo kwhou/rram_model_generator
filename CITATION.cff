@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RRAM Model Generator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kuan-Wei
+    family-names: Hou
+    email: kwhou_larc@gapp.nthu.edu.tw
+    affiliation: National Tsing Hua University
+license: MIT
